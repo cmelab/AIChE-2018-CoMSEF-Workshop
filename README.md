@@ -4,6 +4,7 @@ Below are links to the code repositories of each notebook.
 
 * [openMM tutorial from the Mayes group](https://github.com/team-mayes) 
 * [Hoomd, Signac, and Freud tutorial from the Glotzer group](https://bitbucket.org/glotzer/aiche-2018-hoomd-signac-freud/src/master/)
+ * [Mosdef tutorials from the Cummings & McCabe group](https://github.com/mosdef-hub/mosdef_tutorials)
 
 ## License 
 
