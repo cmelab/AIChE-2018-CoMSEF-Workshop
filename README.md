@@ -1,7 +1,6 @@
 # AIChE-2018-CoMSEF-Workshop
-Notebooks and example code used in the AIChE 2018 CoMSEF Workshop
-
-## How to use
+Notebooks and example code used in the AIChE 2018 CoMSEF Workshop. These notebooks are the same ones used in the virtual machine.
+Below are links to the code repositories of each notebook.
 
 ## License 
 
